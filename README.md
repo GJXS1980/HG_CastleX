@@ -1,4 +1,4 @@
-#   CastleX国赛程序更新
+#   CastleX国赛功能包更新
 ### 上下位通信功能包
 (1)下载ros-melodic-castlex-bringup_amd64.deb包
 
